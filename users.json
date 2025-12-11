@@ -1,1 +1,8 @@
-{}
+{
+    "a": {
+        "password": "a",
+        "hwid": null,
+        "expiry": "2026-02-26 23:59:59",
+        "banned": false
+    }
+}
