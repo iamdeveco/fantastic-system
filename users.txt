@@ -1,0 +1,8 @@
+{
+    "aaaaaaa": {
+        "password": "a",
+        "hwid": null,
+        "expiry": "2025-12-30 23:59:59",
+        "banned": false
+    }
+}
